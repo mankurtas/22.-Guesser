@@ -25,7 +25,7 @@ minNumber.style.color = "red";
 maxNumber.style.color = "green";
 let threeGuess = 3;
 const message = document.body.querySelector(".message");
-//random number
+//random number generator
 const randomNum = Math.ceil(Math.random() * 10);
 
 //listen input
