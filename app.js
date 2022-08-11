@@ -64,7 +64,7 @@ function playGame(event) {
       console.log(guessArray);
     }
 
-    // jei darau input = ""; Man neclearina input, gal gali pakomentuoti kodel?
+    // Kodel jei darau input = ""; Man neclearina input, gal gali pakomentuoti kodel?
     document.getElementById("guess-input").value = " ";
   }
 }
